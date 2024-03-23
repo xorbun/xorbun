@@ -4,9 +4,13 @@ A  Full-Stack developer from Italy 🇮🇹
 
 
 
-📖 I’m currently learning React-Native
-💬 Ask me about react, js, bootstrap
-✉️ How to reach me bruno.capobianco@outlook.it
+- 📖 I’m currently learning React-Native
+- 💬 Ask me about react, js, bootstrap
+- ✉️ How to reach me bruno.capobianco@outlook.it
+
+
+
+
 
 
 
