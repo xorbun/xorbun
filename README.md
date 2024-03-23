@@ -13,7 +13,7 @@ A  Full-Stack developer from Italy 🇮🇹
 <h1> My contacts</h1>
 
 <a href="https://www.linkedin.com/in/brunocapobianco/">
-  <img src="[https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png]" alt="LinkedIn" width="50px">
+  <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="LinkedIn" width="50px">
 </a>
 
 
