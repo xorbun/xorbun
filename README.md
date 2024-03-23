@@ -10,7 +10,7 @@ A  Full-Stack developer from Italy 🇮🇹
 
 
 
-![Logo di GitHub](https://github.com/images/logo.png)
+[![LinkedIn]([immagine_del_logo.png](https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png))](https://www.linkedin.com/in/brunocapobianco/)
 
 
 
