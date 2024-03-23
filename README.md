@@ -10,10 +10,10 @@ A  Full-Stack developer from Italy 🇮🇹
 
 
 
-
+<h1> My contacts</h1>
 
 <a href="https://www.linkedin.com/in/brunocapobianco/">
-  <img src="https://marketingartfully.com/wp-content/uploads/2018/09/linkedin-square-logo-200x200.jpg" alt="LinkedIn" width="50px">
+  <img src="[https://marketingartfully.com/wp-content/uploads/2018/09/linkedin-square-logo-200x200.jpg](https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png)" alt="LinkedIn" width="50px">
 </a>
 
 
