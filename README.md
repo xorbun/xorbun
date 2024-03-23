@@ -1,4 +1,4 @@
-Hello! 👋, I'm Bruno Capobianco
+Hello! 👋  I'm Bruno Capobianco
 
 A  Full-Stack developer from Italy 🇮🇹
 
