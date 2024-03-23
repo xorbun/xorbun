@@ -10,8 +10,9 @@ A  Full-Stack developer from Italy 🇮🇹
 
 
 
-[![LinkedIn]([immagine_del_logo.png](https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png))](https://www.linkedin.com/in/brunocapobianco/)
 
+
+[![LinkedIn](https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png)](https://www.linkedin.com/in/brunocapobianco/)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xorbun)](https://github.com/ryo-ma/github-profile-trophy)
