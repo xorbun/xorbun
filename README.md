@@ -13,7 +13,7 @@ A  Full-Stack developer from Italy 🇮🇹
 
 
 <a href="https://www.linkedin.com/in/brunocapobianco/">
-  <img src="https://marketingartfully.com/wp-content/uploads/2018/09/linkedin-square-logo-200x200.jpg" alt="LinkedIn" width="100px">
+  <img src="https://marketingartfully.com/wp-content/uploads/2018/09/linkedin-square-logo-200x200.jpg" alt="LinkedIn" width="50px">
 </a>
 
 
