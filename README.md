@@ -12,7 +12,9 @@ A  Full-Stack developer from Italy 🇮🇹
 
 
 
-[![LinkedIn](https://marketingartfully.com/wp-content/uploads/2018/09/linkedin-square-logo-200x200.jpg)](https://www.linkedin.com/in/brunocapobianco/){:width="100px"}
+<a href="https://www.linkedin.com/in/brunocapobianco/">
+  <img src="https://marketingartfully.com/wp-content/uploads/2018/09/linkedin-square-logo-200x200.jpg" alt="LinkedIn" width="100px">
+</a>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xorbun)](https://github.com/ryo-ma/github-profile-trophy)
