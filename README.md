@@ -4,6 +4,10 @@ A  Full-Stack developer from Italy 🇮🇹
 
 
 
+📖 I’m currently learning React-Native
+💬 Ask me about react, js, bootstrap
+✉️ How to reach me bruno.capobianco@outlook.it
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xorbun)](https://github.com/ryo-ma/github-profile-trophy)
